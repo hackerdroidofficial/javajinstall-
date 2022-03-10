@@ -1,2 +1,2 @@
-# javajinstall-
+# javajinstaller
 jdk8installer 
